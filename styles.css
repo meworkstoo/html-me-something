@@ -1,0 +1,27 @@
+.red {
+    color: #930203;
+}
+.yellow {
+    color: #E5ED0F;
+}
+
+.blue {
+    color: #397CC4;
+}
+
+body{
+    background-color:#252525;
+    color: #ffffff;
+}
+
+a {
+    color:  #E5ED0F;
+}
+
+.boldtext {
+    font-weight: bold;
+}
+
+#MyHeader {
+    text-align: center;
+}
